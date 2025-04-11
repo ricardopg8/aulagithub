@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - GRUPO BIT\\Dados\\Ricardo_Dados\\Udemy\\aulagithub\\SellingSite\\SellingSite.csproj": {}
+    "C:\\Users\\ricar\\OneDrive\\Udemy\\C# COMPLETO Programação Orientada a Objetos   Projetos\\AulaGit\\aulagithub\\SellingSite\\SellingSite.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - GRUPO BIT\\Dados\\Ricardo_Dados\\Udemy\\aulagithub\\SellingSite\\SellingSite.csproj": {
+    "C:\\Users\\ricar\\OneDrive\\Udemy\\C# COMPLETO Programação Orientada a Objetos   Projetos\\AulaGit\\aulagithub\\SellingSite\\SellingSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - GRUPO BIT\\Dados\\Ricardo_Dados\\Udemy\\aulagithub\\SellingSite\\SellingSite.csproj",
+        "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Udemy\\C# COMPLETO Programação Orientada a Objetos   Projetos\\AulaGit\\aulagithub\\SellingSite\\SellingSite.csproj",
         "projectName": "SellingSite",
-        "projectPath": "D:\\OneDrive - GRUPO BIT\\Dados\\Ricardo_Dados\\Udemy\\aulagithub\\SellingSite\\SellingSite.csproj",
-        "packagesPath": "C:\\Users\\ricardo.goncalves\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - GRUPO BIT\\Dados\\Ricardo_Dados\\Udemy\\aulagithub\\SellingSite\\obj\\",
+        "projectPath": "C:\\Users\\ricar\\OneDrive\\Udemy\\C# COMPLETO Programação Orientada a Objetos   Projetos\\AulaGit\\aulagithub\\SellingSite\\SellingSite.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricar\\OneDrive\\Udemy\\C# COMPLETO Programação Orientada a Objetos   Projetos\\AulaGit\\aulagithub\\SellingSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "P:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ricardo.goncalves\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -64,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
